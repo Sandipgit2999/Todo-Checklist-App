@@ -1,0 +1,14 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.parent {
+    height: 50%;
+    width: 100%;
+}
+
+.todo{
+    border: 1px solid red;
+    margin-left: 50px;
+}
